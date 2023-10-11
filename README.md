@@ -1,0 +1,43 @@
+## MULTER EN EL ENDPOINT "./"
+
+![](/img_readme/Multer.jpg)
+
+## UPLOADS SUBIDOS DESDE EL MULTER
+
+![](/img_readme/UploadsMulter.jpg)
+
+## PRODUCTOS MOSTRADOS CON HANDLEBARS EN EL ENDPOINT "./api/views"
+
+![](/img_readme/HANDLEBARS%20PRODUCTS.jpg)
+
+## PRODUCTOS SUBIDOS CON POSTMAN EN EL ENDPOINT "./api/products"
+
+![](/img_readme/POSTAMN%20POST%20PRODUCT.jpg)
+
+## PRODUCTOS GUARDADOS EN MONGOATLAS
+
+![](/img_readme/MONGOATLAS%20PRODUCTOS.jpg)
+
+## USUARIOS SUBIDOS CON POSTMAN EN EL ENDPOINT "./api/users"
+
+
+![](/img_readme/POSTAMN%20POST%20USER.jpg)
+
+## USUARIOS GUARDADOS EN MONGOATLAS
+
+![](/img_readme/MONGOATLAS%20USUARIOS.jpg)
+
+
+## CHAT FUNCIONANDO EN ENDPOINT "./api/views"
+
+
+![](/img_readme/CHAT.jpg)
+
+## MENSAJE GUARDADO CORRECTAMENTE
+
+![](/img_readme/MENSAJE%20GUARDADO.jpg)
+
+## MENSAJE GUARDADO EN COLLECTION DE MONGOATLAS
+
+![](/img_readme/MONGOATLAS%20MENSAJES.jpg)
+
