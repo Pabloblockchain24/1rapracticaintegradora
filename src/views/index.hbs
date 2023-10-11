@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>LISTA DE PRODUCTOS CON HANDLEBARS</h1>
+
+    {{#each products}}
+    <div>
+        <p>{{this.nombre}} {{this.descripcion}} {{this.precio}} {{this.categoria}}</p>
+        <hr>
+    </div>
+    {{/each}}
+    <div>
+        <h1>Pregunta lo que quieras en nuestro chat</h1>
+        <form action="/send" method="post">
+            <input type="text" name="message" placeholder="Escribe tu mensaje">
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+
+</body>
+
+</html>
